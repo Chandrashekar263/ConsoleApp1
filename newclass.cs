@@ -14,7 +14,7 @@ namespace ConsoleApp1
         }
         public void chanduu()
         {
-
+            ///
         }
     }
 }
