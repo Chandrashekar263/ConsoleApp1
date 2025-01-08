@@ -14,7 +14,11 @@ namespace ConsoleApp1
         }
         public void chanduu()
         {
-
+            
         }
+        public void sai()
+        {
+        }
+            
     }
 }
