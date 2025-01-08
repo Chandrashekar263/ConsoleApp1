@@ -19,6 +19,8 @@ namespace ConsoleApp1
         public void sai()
         {
         }
+        //dbjs,sfbskbvdszj,gznvzdbs.kfkbgzsnvjbvjskjznbzd,nm
+        //bvnmvmzb,jgjvnkjznkxvndjx.xmvmfhljxd/b;ld
             
     }
 }
