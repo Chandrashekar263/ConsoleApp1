@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public void chandu()
         {
-
+            //hhhhhhh
         }
         public void chanduu()
         {
