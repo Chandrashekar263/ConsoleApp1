@@ -8,25 +8,10 @@ namespace ConsoleApp1
 {
     internal class newclass
     {
-        //nvbnvczxbnmb,n,nmnbvc
-        public void chandu()
-        {chandrashekar
-            //hhhhhhh hhghjfjj
-        }
-        public void chanduu()
-        {
-            //ghdhdhfh
-
-//hi this is not valid    bbbn
-        }
-        public void chanduu()
-        {
-            // hellogjfhgbjshxcvhhf
- master
-        }
+        
         public void sai()
         {
-            //hrjhfghgdhjghfgjb
+            // I HAVE ISSUE WITH GIT HUB
         }
             
     }
