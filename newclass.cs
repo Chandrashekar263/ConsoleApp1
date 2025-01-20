@@ -16,5 +16,9 @@ namespace ConsoleApp1
         {
             //ghdhdhfh
         }
+        public void sai()
+        {
+        }
+            
     }
 }
