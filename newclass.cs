@@ -12,6 +12,10 @@ namespace ConsoleApp1
         public void sai()
         {
             // I NEED DUPLICATE PROGRAM
+             string input = "swamiiii";
+ string result = new string(input.ToCharArray().Distinct().ToArray());
+ Console.WriteLine(result);
+
         }
             
     }
