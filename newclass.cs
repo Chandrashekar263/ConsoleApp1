@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     internal class newclass
     {
+        //nvbnvczxbnmb,n,nmnbvc
         public void chandu()
         {
 //hi this is not valid    bbbn
@@ -18,6 +19,7 @@ namespace ConsoleApp1
         }
         public void sai()
         {
+            //hrjhfghgdhjghfgjb
         }
             
     }
