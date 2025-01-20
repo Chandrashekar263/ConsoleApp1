@@ -15,7 +15,7 @@ namespace ConsoleApp1
 
             
             // I NEED DUPLICATE PROGRAM
-             string input = "swamiiii";
+             string input = "SAIKRISHHHHNAA";
              string result = new string(input.ToCharArray().Distinct().ToArray());
              Console.WriteLine(result);
 
