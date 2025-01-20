@@ -11,7 +11,7 @@ namespace ConsoleApp1
         
         public void sai()
         {
-            // I HAVE ISSUE WITH GIT HUB OK RA BUULEY
+            // I NEED DUPLICATE PROGRAM
         }
             
     }
